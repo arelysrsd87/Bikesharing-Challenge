@@ -1,3 +1,6 @@
+# Ignore large files
+NYC_CitiBike_Challenge_starter_code.ipynb
+
 # Compiled class file
 *.class
 
