@@ -1,5 +1,7 @@
 # Ignore large files
-NYC_CitiBike_Challenge_starter_code.ipynb
+201908-citibike-tripdata.csv
+citibike_201908_datetime.csv
+
 
 # Compiled class file
 *.class
