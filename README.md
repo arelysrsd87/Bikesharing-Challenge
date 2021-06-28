@@ -32,7 +32,7 @@ The gender breakdown pie chart shows 65% of the usertypes are males, 25% are fem
 The August Peak Hours graph shows most bikes are rented during morning hours of 8-9 A.M. and evening hours of 6-7 P.M. The lowest valley for renting bikes is from 3-4 A.M. We recommend this time for any bike upkeep.
 
 # Summary
-[Bike-sharing Challenge](https://public.tableau.com/app/profile/arelys.rosado/viz/BikesharingChallenge_16245815694580/Bike-sharingChallenge)
+[Bike-sharing Story](https://public.tableau.com/app/profile/arelys.rosado/viz/BikesharingChallenge_16245815694580/Bike-sharingChallenge)    
 We can summarize the length of most trips is of short duration, approx. 10 minutes. Additionally, the male population is the lead renter, renting mostly on weekdays during the 7-9 A.M and 5-7 P.M. windows. This strongly suggest bikes are being rented as an alternative method to public transportatin for the morning and evening commutes. We recommend for future analysis to 
 (1) analyze which stations are mostly used and the zoning around and
 (2) how many bikes are needed during peak hours and if the business is meeting the demand. 
