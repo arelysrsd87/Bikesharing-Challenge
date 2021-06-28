@@ -16,13 +16,16 @@ Checkout Times by Gender graph shows all genders follow the same trend of short 
 ![Trips by Weekday per Hour](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20weekday%20per%20hour.jpg)   
 Trips by Weekday per Hour graph shows there is a higher density for checkout bikes on weekdays during the morning (7-9 A.M.) and evening (5-7 P.M.) commutes. Weekend days show bikes are rented consistently thoroughout the day.
 
-![Trips by Gender](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20gender%20weekday%20per%20hour.jpg)
+![Trips by Gender](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20gender%20weekday%20per%20hour.jpg)    
 Trips by Gender (Weekday per Hour) graph shows a higher density of the male population renting bikes during the morning and evening commutes. However, the female population follows the same trend.
 
-![User Trips by Gender by Weekday](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/user%20trips%20by%20gender%20by%20weekday.jpg)
-User Trips by Gender by Weekday shows data broken down by both usertype (customer versus subscriber), weekday and by gender. the main takeaway is the higher density of user trips is by the male subscriber on weekdays.
+![User Trips by Gender by Weekday](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/user%20trips%20by%20gender%20by%20weekday.jpg)    
+User Trips by Gender by Weekday shows data broken down by both usertype (customer versus subscriber), weekday and by gender. The main takeaway is the higher density of user trips is by the male subscribers on weekdays.
 
-![Customers](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/customers.jpg)
+![Customers](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/customers.jpg)   
 The customers pie chart shows there is 8:2 ratio between subscribers:customer usertypes.
+
+![Gender breakdown](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/gender%20breakdown.jpg)   
+The gender breakdown pie chart shows 65% of the usertypes are males, 25% are females and 10% are unknown.
 
 # Summary
