@@ -13,6 +13,9 @@ Checkout Times for Users graph shows most bikes are rented for lesst than hour, 
 ![Checkout Times by Gender](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/checkout%20times%20by%20gender.jpg)
 Checkout Times by Gender graph shows all genders follow the same trend of short checkout times.
 
-![Trips by Weekday per Hour](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20weekday%20per%20hour.jpg)
+![Trips by Weekday per Hour](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20weekday%20per%20hour.jpg)   
 Trips by Weekday per Hour graph shows there is a higher density for checkiout bikes on weekdays during the morning (7-9 A.M.) and evening (5-7 P.M.) commutes.
+
+![Trips by Gender](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20gender%20weekday%20per%20hour.jpg)
+Trips by Gender (Weekday per Hour) graph shows a higher density of the male population renting during the morning and evening commutes. However, the female population follows the same trend.
 # Summary
