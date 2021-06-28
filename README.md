@@ -7,4 +7,7 @@ Use Pandas to change "tripduration" column from integer to a datetime datatype. 
 (2) Show the number of bike trips for all riders and genders for each hour of each day of the week.
 (3) Show the number of bike trips for each type of user and gender for each day of the week.
 # Results
+![Checkout Times for Users](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/checkout%20times%20for%20users.jpg).
+Most bikes are rented for lesst than hour. More precisely, for 10 minutes.
+
 # Summary
