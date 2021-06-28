@@ -9,6 +9,10 @@ Use Pandas to change "tripduration" column from integer to a datetime datatype. 
 # Results
 ![Checkout Times for Users](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/checkout%20times%20for%20users.jpg)
 Checkout Times for Users graph shows most bikes are rented for lesst than hour, more precisely, for 10 minutes.
+
 ![Checkout Times by Gender](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/checkout%20times%20by%20gender.jpg)
 Checkout Times by Gender graph shows all genders follow the same trend of short checkout times.
+
+![Trips by Weekday per Hour](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/trips%20by%20weekday%20per%20hour.jpg)
+Trips by Weekday per Hour graph shows there is a higher density for checkiout bikes on weekdays during the morning (7-9 A.M.) and evening (5-7 P.M.) commutes.
 # Summary
