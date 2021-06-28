@@ -1,6 +1,6 @@
 # Bikesharing-Challenge
 # Overview of the analysis
-Fisrt step is to figure out how the bike-share business works out in NYC. From there, you'll create a proposal on how it might work in Des Moines.
+The overview of this project is to figure out how the bike-share business works out in NYC. From there, we'll create a proposal on how it might work in Des Moines.
 ## Purpose of the analysis
 Use Pandas to change "tripduration" column from integer to a datetime datatype. Then, using the converted datatype, you'll create a set of visualizations to:
 (1) Show the length of time that bikes are checked out for all riders and genders.
@@ -25,7 +25,10 @@ User Trips by Gender by Weekday shows data broken down by both usertype (custome
 ![Customers](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/customers.jpg)   
 The customers pie chart shows there is 8:2 ratio between subscribers:customer usertypes.
 
-![Gender breakdown](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/gender%20breakdown.jpg)   
+![Gender breakdown](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/gender%20breakdown.jpg)     
 The gender breakdown pie chart shows 65% of the usertypes are males, 25% are females and 10% are unknown.
+
+![August Peak Hours](https://github.com/arelysrsd87/Bikesharing-Challenge/blob/main/Images/August%20peak%20hours.jpg)   
+The August Peak Hours graph shows most bikes are rented during morning hours of 8-9 A.M. and evening hours of 6-7 P.M. The lowest valley for renting bikes is from 3-4 A.M. We recommend this time for any bike upkeep.
 
 # Summary
